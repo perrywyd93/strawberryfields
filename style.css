@@ -1,0 +1,161 @@
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 10rem;
+  color: #d45d79;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 4.5rem;
+  font-style: italic;
+}
+
+h3 {
+  color: #d45d79;
+  font-family: 'Merriweather', serif;
+  font-size: 1.75rem;
+}
+
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+}
+
+p  {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+}
+
+
+/* Landing Page */
+
+#landing {
+  margin: 5% 4% 0;
+}
+
+.btn-outline-dark {
+  padding: 3% 3% 0;
+  margin: 3% auto;
+}
+
+/* Title */
+
+.strawberry-logo {
+  border-radius: 100%;
+  display: inline-block;
+  height: 300px;
+  margin: 0 auto 40px;
+  opacity: 45%;
+  padding: 3% 0 0 1%;
+  width: 300px;
+}
+
+.strawberry-logo:hover {
+  border-radius: 100%;
+  display: inline-block;
+  margin: 0 auto 40px;
+  opacity: 95%;
+  padding: 3% 0 0 1%;
+}
+
+
+.navbar {
+  margin-bottom: 70px;
+}
+
+.nav-item {
+  color: #d45d79;
+}
+
+.responsive-title {
+  margin: 0 auto 6.25%;
+  text-align: center;
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  width: auto;
+}
+
+.left-title {
+  padding-top: 100px;
+}
+
+.right-title {
+  padding-top: 20px;
+}
+
+#home-name {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;;
+  color: #d45d79;
+}
+
+.title-slogan {
+  margin-bottom: 2%;
+}
+
+
+/* Headings */
+
+
+/* Sections */
+
+.colored-section {
+  background-color: #d45d79;
+  color: #fff;
+  opacity: 90%;
+  padding: 3% 5%;
+}
+
+.colored-heading {
+  color: #fff;
+  margin: 0 auto 8px;
+  text-align: center;
+  text-decoration: underline #fff;
+}
+
+.white-section {
+  background-color: #fff;
+  color: #d45d79;
+  padding: 1% 15%;
+  ;
+}
+
+/* Locations */
+
+#locations {
+  color: #fff;
+}
+
+#location-heading {
+  font-size: 3rem;
+}
+
+.location-img {
+  border-radius: 100%;
+  display: inline-block;
+  padding-bottom: 3%;
+}
+
+.top-row {
+  margin: 50px auto 0;
+  text-align: center;
+}
+
+.bottom-row {
+  margin: 70px auto 50px;
+  text-align: center;
+}
+
+
+/* Footer */
+
+.footer-logo {
+  margin-left: auto;
+  margin-right: auto;
+  height: 5%;
+  width: 3%;
+}
